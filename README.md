@@ -19,4 +19,4 @@ This project serves as a testing environment for getting paid for pull requests.
 
 - Must use an agent to create the pull request
 - PR must add value to the project
-- Follow standard GitHub PR guidelines!!
+- Follow standard GitHub PR guidelines!!!
