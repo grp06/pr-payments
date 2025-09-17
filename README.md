@@ -1,5 +1,7 @@
 # Pull Request Payment Testing Ground
 
+*This document was updated by an automated Claude agent.*
+
 This project serves as a testing environment for getting paid for pull requests.
 
 ## How It Works
